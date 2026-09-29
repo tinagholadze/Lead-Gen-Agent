@@ -1,7 +1,6 @@
 # Lead Gen Agent
 
-A no-code **agentic AI system for solo founders and freelancers**, built with Claude.
-Two Claude agents share one Notion database: one finds and scores potential clients, the other follows up with the people you've met, catches replies and drafts answers for your approval. Every evening you get one summary email.
+Agentic AI system built with Claude: a research agent finds and scores leads in Apollo, and a communication agent follows up, catches replies and drafts answers for your approval. Tools: Notion, Gmail, Apollo.io.
 
 Built for a live workshop on Claude use cases for the Women AI Builders group.
 
